@@ -1,0 +1,38 @@
+.campo-formulario {
+    margin: 10px;
+    text-align: left;
+}
+
+.input-formulario {
+    margin-top: 2px;
+    margin-left: 10px;
+    width: 70%;
+
+}
+
+.label-formulario {
+    display: block;
+}
+
+.input-checkbox {
+    height: 1.5rem;
+    width: 3rem;
+    display:inline;
+}
+
+.botao-cadastro {
+    font-size: 1rem;
+    padding: 0.5rem 3rem;
+    margin: 1rem;
+    border: none;
+    background: #e63737;
+    color: #fff;
+    transition: 0.2 ease-out;
+
+}
+.botao-cadastro:hover {
+    background: #ffc500;
+    transition: 0.2 ease-out;
+    cursor: pointer;
+    color: #000;
+}

@@ -1,0 +1,38 @@
+.listagem {
+    padding-bottom: 20px;
+}
+
+
+
+.listagem th, .listagem td {
+    outline: 2px solid rgb(255, 255, 255);
+    padding: 5px;
+}
+.table-produto {
+    color: rgb(255, 255, 255);
+    background: #e31837;
+}
+
+.botao-form {
+    font-size: 1rem;
+    padding: 0.5rem 2rem;
+    border: none;
+    background: #ffc500;
+    color: #000;
+    transition: 0.2 ease-out;
+    margin: 3px;
+
+}
+.botao-form:hover {
+    background: #150f0f;
+    transition: 0.2 ease-out;
+    cursor: pointer;
+    color: #fff;
+}
+
+.checkbox-lista {
+    height: 2rem;
+    width: 2rem;
+    display:inline;
+    margin-left: 26px;
+}
